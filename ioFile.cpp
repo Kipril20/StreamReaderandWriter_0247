@@ -16,3 +16,5 @@ int main()
 
     // unlimited Loop untuk menulis
     while (true)
+    {
+        cout << "- ";
